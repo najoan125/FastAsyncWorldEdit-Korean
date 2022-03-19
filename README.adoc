@@ -1,6 +1,7 @@
 image::fawe-logo.png[150,150,align=center]
 
 '''
+FAWE 한글화 버전입니다 (translated by Najoan)
 
 FastAsyncWorldEdit is a fork of WorldEdit that has huge speed and memory improvements and considerably more features
 
