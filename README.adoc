@@ -3,6 +3,10 @@ image::fawe-logo.png[150,150,align=center]
 '''
 FAWE 한글화 버전입니다 (translated by Najoan)
 
+link:https://github.com/najoan125/FastAsyncWorldEdit-Korean/releases/latest[최신 릴리즈 다운로드]
+
+'''
+
 FastAsyncWorldEdit is a fork of WorldEdit that has huge speed and memory improvements and considerably more features
 
 == A Minecraft Map Editor... that runs in-game!
